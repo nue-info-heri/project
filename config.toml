@@ -1,4 +1,4 @@
-baseurl = "https://nue-info-heritage.web.app/"
+baseurl = "https://nue-info-heri.github.io/project"
 title = "情報遺産ギャラリー"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "ja"
